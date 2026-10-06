@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/shri-radha.png" alt="श्री राधा" width="200">
+</p>
+
 # Redis Vector Search Samples (Python & RedisVL)
 
 Step-by-step Redis vector search samples in Python: JSON documents, attribute search, KNN, hybrid (vector + filter) and range queries, embedding generation, plus RedisVL examples.
